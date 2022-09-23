@@ -153,3 +153,6 @@ https://wardseptember.github.io/notes/#/README?id=%e9%ab%98%e9%a2%91%e9%9d%a2%e8
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 https://zhuanlan.zhihu.com/p/113917726
+
+
+http://composingprograms.com/pages/16-higher-order-functions.html
